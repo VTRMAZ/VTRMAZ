@@ -45,12 +45,5 @@
 
 ## 📈 GitHub Stats
 
-![VTR's GitHub stats](https://github-readme-stats.vercel.app/api?username=victordrnd&show_icons=true&theme=radical)
-## 📈 GitHub Stats
-
 ![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victordrnd&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victordrnd&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=victordrnd&theme=radical)](https://git.io/streak-stats)
-
-[![Victor's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=victordrnd&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
