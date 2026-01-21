@@ -3,7 +3,7 @@
 - 👨‍💻 I'm a freelance developer specialized in automation, data scraping, and custom micro-software.
 - 🧠 I've participated in several AI and Blockchain hackathons.
 - 🌐 I'm passionate about crypto, Web3, and on-device intelligence.
-- 📦 I’ve already launched multiple SaaS products, including browser extensions with **500+ active users**.
+- 📦 I’ve already launched multiple SaaS products, including browser extensions with **2000+ active users**.
 
 ---
 
